@@ -1,0 +1,11 @@
+os
+tempfile
+pyaudio
+webrtcvad
+groq
+pathlib
+openai
+pygame
+logging
+sys
+datetime
