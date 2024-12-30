@@ -10,7 +10,7 @@ A basic voice assistant that can be run in the terminal and interacts with you t
 
    ```bash
    git clone https://github.com/johannesschiessl/Voice-Assistant.git
-   cd voice-assistant
+   cd Voice-Assistant
    ```
 
 2. Install the required Python libraries:
